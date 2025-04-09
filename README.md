@@ -35,9 +35,7 @@ Bachelor of Computer Science (Co-op)
 I'm always open to networking, mentorship, and collaboration opportunities!
 
 📧 **Email:** [ez276182@dal.ca](mailto:ez276182@dal.ca)  
-🌐 **Website:** [ezekielloty.dev](https://ezekielloty.dev) *(if hosted)*  
 💼 **LinkedIn:** [linkedin.com/in/ezekielloty](https://linkedin.com/in/ezekielloty)
 
 ---
 
-_“Code what you love, love what you build.”_ 💙
