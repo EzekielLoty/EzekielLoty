@@ -15,7 +15,7 @@
 `Java` | `Python` | `JavaScript` | `HTML/CSS` | `C` | `SQL`
 
 **Frameworks & Libraries:**  
-`React` | `Node.js` | `Spring Boot` | `Express`
+`React` | `Node.js` | `Express` | `Spring Boot` | `Pandas` | `Numpy` | `Matplotlib` | `Scikitlearn`
 
 **Tools & Platforms:**  
 `Firebase` | `MySQL` | `Git` | `Linux` | `Azure` | `AWS` | `VS Code` | `IntelliJ`
