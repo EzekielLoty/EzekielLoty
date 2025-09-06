@@ -1,34 +1,70 @@
-# 👋 Hi there, I'm Ezekiel Loty!
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🎓 I'm a 2nd-year Computer Science student at **Dalhousie University**, diving deep into the world of **Software Engineering**, **Data Science**, and now venturing into **Machine Learning**.
+###
 
-💡 I love building projects inspired by my passions—especially when it comes to tech, sports, and real-world problems.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
----
+###
 
-## 💼 Currently Looking For:
-🔍 A **Summer 2025 Internship** (Co-op) – I'm eager to gain hands-on experience and contribute to impactful projects in software development or data-related roles.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EzekielLoty.EzekielLoty&"  />
+</div>
 
-## 🧠 Tech Stack
+###
 
-**Languages:**  
-`Java` | `Python` | `JavaScript` | `HTML/CSS` | `C` | `SQL`
+<h1 align="center">hey there 👋</h1>
 
-**Frameworks & Libraries:**  
-`React` | `Node.js` | `Express` | `Spring Boot` | `Pandas` | `Numpy` | `Matplotlib` | `Scikitlearn`
+###
 
-**Tools & Platforms:**  
-`Firebase` | `MySQL` | `Git` | `Linux` | `Azure` | `AWS` | `VS Code` | `IntelliJ`
+<h3 align="left">👩‍💻  About Me</h3>
 
----
+###
 
-## 📚 Education
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-🎓 **Dalhousie University**  
-Bachelor of Computer Science (Co-op)  
-📅 *Expected Graduation: May 2027*
+###
 
----
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EzekielLoty&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ## 📬 Let's Connect
 
