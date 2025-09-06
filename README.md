@@ -7,7 +7,7 @@
 ```python
 name = "Ezekiel"
 
-while True:
+while Coding:
     actions = [
         f"🎧 {name} is listening to music",
         f"💧 {name} is drinking water",
