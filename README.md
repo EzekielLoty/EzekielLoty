@@ -12,13 +12,13 @@ while coding:
         f"🎧 {name} is listening to music",
         f"💧 {name} is drinking water",
         f"🤖 {name} is training ML models",
-        f"🛠️ {name} is building APIs"
+        f"🛠️ {name} is building Applications"
     ]
     for a in actions: print(a)
 ```
 ###
 
-<p align="center">Check out my Medium for blogs and project overviews, and feel free to connect with me on other platforms.</p>
+<p align="center"> (Coming Soon) Check out my Medium for blogs and project overviews, and feel free to connect with me on other platforms.</p>
 
 
 
