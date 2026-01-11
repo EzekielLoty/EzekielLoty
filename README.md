@@ -18,7 +18,7 @@ while coding:
 ```
 ###
 
-<p align="center"> (Coming Soon) Check out my Medium for blogs and project overviews, and feel free to connect with me on other platforms.</p>
+<p align="center"> (Coming Soon)Check out my Medium for blogs and project overviews, and feel free to connect with me on other platforms.</p>
 
 
 
